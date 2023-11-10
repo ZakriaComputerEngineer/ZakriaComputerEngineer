@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @ZakriaComputerEngineer
+- 👀 I’m interested in Model driven solutions of complex problems
+- 🌱 I’m currently learning Deep learning algorithms and model generation
+- 💞️ I’m looking to collaborate on Cloud based real time machine learning projects (especially for Bio related solutions)
+- Excited to work on Deep learning mechanism for analysis of test results to derive probability of possible chronic diseases growing in body
+- 📫 How to reach me Zakskyfighter@gmail.com
