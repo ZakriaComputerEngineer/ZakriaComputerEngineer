@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ZakriaComputerEngineer
-- 👀 I’m interested in Model driven solutions of complex problems
-- 🌱 I’m currently learning Deep learning algorithms and model generation
-- 💞️ I’m looking to collaborate on Cloud based real time machine learning projects (especially for Bio related solutions)
-- Excited to work on Deep learning mechanism for analysis of test results to derive probability of possible chronic diseases growing in body
-- 📫 How to reach me Zakskyfighter@gmail.com
+- Studying Computer Engineering from National University of Science and Technology (PAKISTAN)
+- I’m interested to work in Model driven solutions of complex day-to-day problems, machine learning algorithm's application in medical issues (currently working on Breast cancer detection) and run time detection of road signs, objects, vehicles, pedestrian etc for autonomous driving
+- Eager to work on Deep learning mechanism for analysis of test results to derive probability of possible chronic diseases growing in body
+Contacts:
+  Email: zakskyfighter@gmail.com
+  Discord: cinnamon_bun
