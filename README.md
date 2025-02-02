@@ -12,7 +12,7 @@ I'm passionate about pushing the boundaries of technology and turning innovative
 
 4️⃣ Autonomous Vehicles: I'm fascinated by the future of transportation and skilled in developing autonomous vehicle systems that prioritize safety and performance.
 
-5️⃣ Embedded Devices: Whether it's Raspberry Pi projects or intricate embedded systems, I'm adept at leveraging hardware to create innovative solutions.
+5️⃣ Embedded Devices: Whether it's Nvidia xavier, Raspberry Pi or intricate embedded systems, I'm adept at leveraging hardware to create innovative solutions.
 
 6️⃣ FPGA HDL Coding: I thrive in the world of FPGA development, with expertise in Hardware Description Language (HDL) and creating high-performance designs.
 
